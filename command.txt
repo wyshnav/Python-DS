@@ -1,0 +1,13 @@
+ create a repository  >>> https........git
+ open git bash
+ git clone
+
+
+ u>> untracked files 
+ A>>  added files 
+ M>> modified files 
+
+
+ git statu
+
+ git add .    > >>  all files has been tracked by  git
